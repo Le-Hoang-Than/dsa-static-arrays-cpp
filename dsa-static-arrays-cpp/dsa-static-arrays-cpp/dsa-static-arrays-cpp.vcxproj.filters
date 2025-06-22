@@ -18,30 +18,18 @@
     <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\ArrayUtils.cpp">
+    <ClCompile Include="Source.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayMath.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="include\ArrayUtils.h">
+    <ClInclude Include="Header.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="include\Sort.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="include\Search.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\Search.cpp">
-      <Filter>Resource Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\Sort.cpp">
-      <Filter>Resource Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\Menu.cpp">
-      <Filter>Resource Files</Filter>
-    </ClInclude>
-    <ClInclude Include="include\Menu.h">
+    <ClInclude Include="ArrayMath.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
