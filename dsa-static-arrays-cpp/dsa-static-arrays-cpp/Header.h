@@ -5,7 +5,10 @@
 using namespace std;
 
 void showMainMenu();
-void showSubMenu1(); 
-
 void mainMenu();
+
+void showSubMenu1();
 void SubMenu1();
+
+void showSubMenu2();
+void SubMenu2();
